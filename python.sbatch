@@ -6,10 +6,10 @@
 #SBATCH --output=jobname_%J_stdout.txt
 #SBATCH --error=jobname_%J_stderr.txt
 #SBATCH --time=00:10:00
-#SBATCH --job-name=LJC_unzip_convert
-#SBATCH --mail-user=ljc454@utulsa.edu
+#SBATCH --job-name=
+#SBATCH --mail-user=
 #SBATCH --mail-type=ALL
-#SBATCH --chdir=/scratch/tubiol786304/Project
+#SBATCH --chdir=
 #
 #################################################
 
